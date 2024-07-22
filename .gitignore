@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Optionally ignore other files or directories
+# .DS_Store
+# npm-debug.log

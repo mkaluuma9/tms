@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mahad",
+      "lastName": "Kaluuma",
+      "email": "mkaluuma93@gmail.com",
+      "password": "$2b$10$qPRUgD581K/JRXLAbqny..FfgAPt8hn61sf7k9GHy89gbazI2sD9m",
+      "role": "Developer",
+      "departmentId": "1",
+      "levelId": "3",
+      "image": "uploads\\1721689311804.jpg",
+      "tasks": []
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Finance"
+    },
+    {
+      "id": 2,
+      "name": "Legal"
+    },
+    {
+      "id": 3,
+      "name": "QA"
+    },
+    {
+      "id": 4,
+      "name": "Marketing"
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "name": "CEO and Deputy"
+    },
+    {
+      "id": 2,
+      "name": "Manager"
+    },
+    {
+      "id": 3,
+      "name": "Senior Officer"
+    },
+    {
+      "id": 4,
+      "name": "Officer"
+    },
+    {
+      "id": 5,
+      "name": "Assistant"
+    },
+    {
+      "id": 6,
+      "name": "Volunteer"
+    }
+  ]
+}
